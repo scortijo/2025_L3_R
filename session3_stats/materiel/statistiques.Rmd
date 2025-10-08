@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 
 
 Dans cette seconde partie de la section dédiée à la visualisation de données vous allez apprendre:
@@ -636,12 +636,12 @@ Vous pouvez trouver des exemples de chaque cas et quelques points supplémentair
 
 #### - Finissez la première moitié du contrôle continu dont les instructions sont [ici](Devoir_seance3.html)
 
-#### - Déposez avant le 03/11/2024 à minuit sur Moodle le script R de la première moitié du contrôle continu résultant des instructions à la fin des séances 2 et 3.
+#### - Déposez avant le 31/10/2025 à minuit sur Moodle le script R de la première moitié du contrôle continu résultant des instructions à la fin des séances 2 et 3.
 
 
 ******
 
 -------
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 

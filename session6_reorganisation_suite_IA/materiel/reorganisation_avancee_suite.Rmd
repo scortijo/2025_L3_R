@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 
 <br>
 
@@ -330,7 +330,7 @@ Lors de l'examen blanc (et de l'examen final) vous aurez accès au cours et à v
 
 
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 
 
 
