@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 
 
 
@@ -318,13 +318,13 @@ _Note:_ Il existe aussi une fonction `read.csv()`, qui est la fonction par défa
 
 #### - Installez R et Rstudio sur votre ordinateur ([Installer R](https://cran.biotools.fr/), [Installer Rstudio](https://rstudio.com/products/rstudio/download/))
 
-#### - Commencez le contrôle continu dont les instructions sont [ici](Devoir_seance2.html)
+#### - Commencez le contrôle continu dont les instructions sont [ici](Devoir_seance1.html)
 
 <br>
 
 ******
 
-[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2025_L3_R/)
 
 
 ******
