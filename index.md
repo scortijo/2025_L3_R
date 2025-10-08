@@ -1,6 +1,6 @@
 **Où:** Salles TD5.127 et TD5.130 
 
-**Quand:** Du 10 octobre 2024 au 12 décembre 2024
+**Quand:** Du 09 octobre 2025 au 11 décembre 2025
 
 **Instructeurs:** 
 [Sandra Cortijo](mailto:sandra.cortijo@cnrs.fr), 
@@ -18,38 +18,33 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (Lundi 07/10/2024 13h15-14h45, salle TD5.130): Organisation des données 
+### Séance 1 (Jeudi 09/10/2025 13h15-16h30, salle TD5.126): Organisation des données et Intro à **R** 
 
-[Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
+[Matériel organisation des données](session1_organisation_intro/materiel/organisation_session.html)  
 
-[Solution des exercices](session1_organisation/materiel/organisation_session_solution_exercices.html)
+[Solution des exercices](session1_organisation_intro/materiel/organisation_session_solution_exercices.html)
+
+<br>
+
+[Matériel intro à R](session1_organisation_intro/materiel/intro_R.html)  
+
+[Solution des exercices](session1_organisation_intro/materiel/intro_R_solution_exercices)
 
 <br>
 
 
-### Séance 2 (Jeudi 10/10/2024 13h15-16h30, salle TD5.130): Intro à **R** et réaliser des graphiques (partie 1)
+### Séance 2 (Vendredi 17/10/2025 13h15-16h30, salle TD5.127): Réaliser des graphiques
 
 
-[Matériel intro à R](session2_intro_ggplot/materiel/intro_R.html)  
+[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
 
-[Solution des exercices](session2_intro_ggplot/materiel/intro_R_solution_exercices)
-
-<br>
-
-[Matériel réaliser des graphiques](session2_intro_ggplot/materiel/ggplot_session.html)  
-
-[Solution des exercices](session2_intro_ggplot/materiel/ggplot_exercise_solutions.html)
+[Solution des exercices](session2_ggplot/materiel/ggplot_exercise_solutions.html)
 
 <br>
 
 
-### Séance 3 (Vendredi 18/10/2024 13h15-16h30, salle TD5.127): Réaliser des graphiques (partie 2) et ajout des résultats de tests statistiques
+### Séance 3 (Lundi 20/10/2025 13h15-14h45, salle TD5.127): Ajout des résultats de tests statistiques
 
-[Matériel réaliser des graphiques](session3_plots_stats/materiel/ggplot_session.html)  
-
-[Solution des exercices](session3_plots_stats/materiel/ggplot_exercise_solutions.html)
-
-<br>
 
 [Matériel ajouter des résultats de tests statistiques à des graphiques](session3_plots_stats/materiel/statistiques.html)  
 
@@ -59,7 +54,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 4 (Jeudi 24/10/2024 13h15-16h30, salle TD5.130): Réorganisation de données 
+### Séance 4 (Jeudi 23/10/2025 13h15-16h30, salle TD5.127): Réorganisation de données 
 
 [Partie 2 - Matériel réorganisation de données](session4_reorganisation/materiel/reorganisation_donnees.html)  
 
@@ -69,7 +64,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation de données avancées
+### Séance 5 (Lundi 03/11/2025 13h15-16h30, salle TD5.125): Réorganisation de données avancées
 
 [Matériel réorganisation avancée de données ](session5_reorganisation_avancee/materiel/reorganisation_avancee.html)  
 
@@ -80,9 +75,8 @@ Les différentes séances sont (avec accès au cours):
 <br>
 
 
-###   <span style="color: red;"> Attention, la séance du 15 novembre est déplacée au 20 novembre ! </span>
 
-### Séance 6 (Lundi 18/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données (suite)  ET utilisation d'outils d'IA pour l'aide au codage
+### Séance 6 (Vendredi 14/11/2025 13h15-16h30, salle TD5.130): Réorganisation avancée de données (suite)  ET utilisation d'outils d'IA pour l'aide au codage
 
 
 
@@ -100,13 +94,13 @@ Les différentes séances sont (avec accès au cours):
 <br>
 
 
-### Séance 7 (Mercredi 20/11/2024 13h15-16h30, <span style="color: red;"> Bibliothèque à l'IPSiM </span> ): Exam blanc, Correction de l'exam blanc et trucs et astuces
+### Séance 7 (Lundi 17/11/2025 13h15-16h30, session3_stats): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
 
 
 
 
-### Séance 8 (Jeudi 12/12/2024 9h45-11h15, salle TD5.130): Exam
+### Séance 8 (Jeudi 11/12/2025 9h45-11h15, salle TD5.129): Exam
 
 
 
