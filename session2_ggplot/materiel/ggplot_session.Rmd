@@ -573,9 +573,12 @@ pour faire des graphiques "ridge"
 
 # Ressources et liens utiles
 
-- [Gallerie de graphiques pouvant être réalisés avec ggplot2](https://www.r-graph-gallery.com/)
+- [Gallerie de graphiques pouvant être réalisés avec ggplot2](https://www.r-graph-gallery.com/)  
+
+- [Arbre de décision des graphiques](https://www.data-to-viz.com/)  
 
 - [Antisèche pour ggplot2](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)
+
 
 
 <br>
