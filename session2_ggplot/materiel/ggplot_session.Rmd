@@ -508,6 +508,7 @@ Tout d'abord, chargeons le package `gganimate`:
 
 ```{r}
 library(gganimate)
+library(gapminder)
 ```
 
 Pour créer une animation, il faut utiliser la fonction `transition_states()` à notre graphique (avec un _+_)
@@ -519,6 +520,9 @@ ggplot(expt1, aes(rosette.leaf.num, days.to.bolt, colour = fluctuation)) +
   transition_states(states = genotype, wrap = FALSE, transition_length = 1, state_length = 3) +
   ease_aes('linear') +
   labs(subtitle = "{closest_state}") 
+
+
+
 
 ```
 
