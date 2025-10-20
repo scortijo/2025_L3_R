@@ -46,9 +46,9 @@ Les différentes séances sont (avec accès au cours):
 ### Séance 3 (Lundi 20/10/2025 13h15-14h45, salle TD5.127): Ajout des résultats de tests statistiques
 
 
-[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_plots_stats/materiel/statistiques.html)  
+[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats/materiel/statistiques.html)  
 
-[Solution des exercices](session3_plots_stats/materiel/statistiques_solution_exercices.html)  
+[Solution des exercices](session3_stats/materiel/statistiques_solution_exercices.html)  
 
 
 
